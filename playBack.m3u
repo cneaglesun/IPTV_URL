@@ -54,8 +54,6 @@ http://live.aptvapp.com/PLTV/bestv.php?id=dfwshd8m/8000000
 http://live.aptvapp.com/PLTV/bestv.php?id=dnwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://live.aptvapp.com/PLTV/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="卫视",广东卫视
 http://live.aptvapp.com/PLTV/bestv.php?id=gdwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="卫视",广西卫视
