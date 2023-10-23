@@ -90,3 +90,21 @@ http://live.aptvapp.com/PLTV/bestv.php?id=wxtyhd8m/8000000
 https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
 https://live.goodiptv.club/api/ghyx.php?id=CHCHD2_6000
+#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="港澳台",华丽翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h00
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="港澳台",翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="港澳台",无线新闻台
+https://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="港澳台",无线财经体育资讯台
+https://sc2022.stream-link.org/tv2306.php?id=h05
+#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="https://www.stream-link.org/tv_logo/rthk_31.png" group-title="港澳台",RTHK31
+https://sc2022.stream-link.org/tv2306.php?id=h11
+#EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="https://www.stream-link.org/tv_logo/rthk_33.png" group-title="港澳台",RTHK33
+https://sc2022.stream-link.org/tv2306.php?id=h13
+#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港国际财经台
+https://sc2022.stream-link.org/tv2306.php?id=h15
+#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="港澳台",香港开电视
+https://sc2022.stream-link.org/tv2306.php?id=h16
+#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="https://www.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="港澳台",TVB娱乐新闻台
+https://sc2022.stream-link.org/tv2306.php?id=h10
