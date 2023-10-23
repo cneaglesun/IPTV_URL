@@ -84,5 +84,9 @@ http://live.aptvapp.com/PLTV/bestv.php?id=hainanwshd8m/8000000
 http://live.aptvapp.com/PLTV/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://live.aptvapp.com/PLTV/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视",五星体育
+#EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="体育",五星体育
 http://live.aptvapp.com/PLTV/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
+https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
+https://live.goodiptv.club/api/ghyx.php?id=CHCHD2_6000
