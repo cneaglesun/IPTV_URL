@@ -1,5 +1,3 @@
-#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 http://live.aptvapp.com/PLTV/bestv.php?id=cctv4k/15000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
@@ -34,10 +32,13 @@ http://live.aptvapp.com/PLTV/bestv.php?id=cctv13xwhd8m/8000000
 http://live.aptvapp.com/PLTV/bestv.php?id=cctvsehd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
 http://live.aptvapp.com/PLTV/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://live.aptvapp.com/PLTV/bestv.php?id=cctv17hd8m/8000000
+
 #EXTINF:-1,tvg-id="" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://live.aptvapp.com/PLTV/bestv.php?id=zjwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="卫视",北京卫视
@@ -84,27 +85,146 @@ http://live.aptvapp.com/PLTV/bestv.php?id=hainanwshd8m/8000000
 http://live.aptvapp.com/PLTV/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://live.aptvapp.com/PLTV/bestv.php?id=gzwshd8m/8000000
+
 #EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="体育",五星体育
 http://live.aptvapp.com/PLTV/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
 https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
-https://live.goodiptv.club/api/ghyx.php?id=CHCHD2_6000
-#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="港澳台",华丽翡翠台
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://www.stream-link.org/tv_logo/dazn_f1.png" group-title="体育",DAZN F1
+https://sc2022.stream-link.org/tv2306.php?id=s07
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Laliga" tvg-logo="https://www.stream-link.org/tv_logo/daz_laliga.png" group-title="体育",DAZN Laliga
+https://sc2022.stream-link.org/tv2306.php?id=s08
+#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://www.stream-link.org/tv_logo/mlb.png" group-title="体育",MLB
+https://sc2022.stream-link.org/tv2306.php?id=s09
+#EXTINF:-1 tvg-id="" tvg-name="TNT NBA" tvg-logo="https://www.stream-link.org/tv_logo/tnt_nba.png" group-title="体育",TNT NBA
+https://sc2022.stream-link.org/tv2306.php?id=s10
+#EXTINF:-1 tvg-id="" tvg-name="Unbeaten" tvg-logo="https://www.stream-link.org/tv_logo/unbeaten.png" group-title="体育",Unbeaten
+https://sc2022.stream-link.org/tv2306.php?id=s11
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://www.stream-link.org/tv_logo/fifa_plus.png" group-title="体育",FIFA+
+https://sc2022.stream-link.org/tv2306.php?id=s12
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://www.stream-link.org/tv_logo/tennis_channel.png" group-title="体育",Tennis Channel
+https://sc2022.stream-link.org/tv2306.php?id=s13
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="体育",beIN SPORTS XTRA
+https://sc2022.stream-link.org/tv2306.php?id=s14
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports.png" group-title="体育",beIN SPORTS
+https://sc2022.stream-link.org/tv2306.php?id=s15
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports2.png" group-title="体育",beIN SPORTS 2
+https://sc2022.stream-link.org/tv2306.php?id=s16
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports3.png" group-title="体育",beIN SPORTS 3
+https://sc2022.stream-link.org/tv2306.php?id=s17
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports4.png" group-title="体育",beIN SPORTS 4
+https://sc2022.stream-link.org/tv2306.php?id=s18
+#EXTINF:-1 tvg-id="" tvg-name="Astro SUPERSPORT" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="体育",Astro SUPERSPORT
+https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 tvg-id="" tvg-name="Astro SUPERSPORT 2" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png" group-title="体育",Astro SUPERSPORT 2
+https://sc2022.stream-link.org/tv2306.php?id=s20
+#EXTINF:-1 tvg-id="" tvg-name="Astro SUPERSPORT 3" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport3.png" group-title="体育",Astro SUPERSPORT 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 tvg-id="" tvg-name="Astro SUPERSPORT 4" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="体育",Astro SUPERSPORT 4
+https://sc2022.stream-link.org/tv2306.php?id=s22
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Live" tvg-logo="https://www.stream-link.org/tv_logo/abc_news_live.png" group-title="国际新闻",ABC News Live
+https://sc2022.stream-link.org/tv2306.php?id=e02
+#EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://www.stream-link.org/tv_logo/ann_news.png" group-title="国际新闻",ANN News
+https://sc2022.stream-link.org/tv2306.php?id=e03
+#EXTINF:-1 tvg-id="" tvg-name="Asianet News" tvg-logo="https://www.stream-link.org/tv_logo/asianet_news.png" group-title="国际新闻",Asianet News
+https://sc2022.stream-link.org/tv2306.php?id=e04
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="https://www.stream-link.org/tv_logo/bbc_news.png" group-title="国际新闻",BBC News
+https://sc2022.stream-link.org/tv2306.php?id=e05
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://www.stream-link.org/tv_logo/bloomberg.png" group-title="国际新闻",Bloomberg
+https://sc2022.stream-link.org/tv2306.php?id=e06
+#EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="https://www.stream-link.org/tv_logo/cbn_news.png" group-title="国际新闻",CBN News
+https://sc2022.stream-link.org/tv2306.php?id=e07
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://www.stream-link.org/tv_logo/cbs_news.png" group-title="国际新闻",CBS News
+https://sc2022.stream-link.org/tv2306.php?id=e08
+#EXTINF:-1 tvg-id="" tvg-name="CNA News" tvg-logo="https://www.stream-link.org/tv_logo/cna_news.png" group-title="国际新闻",CNA News
+https://sc2022.stream-link.org/tv2306.php?id=e09
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Marathon" tvg-logo="https://www.stream-link.org/tv_logo/cnbc_marathon.png" group-title="New",CNBC Marathon
+https://sc2022.stream-link.org/tv2306.php?id=e10
+#EXTINF:-1 tvg-id="" tvg-name="CNN Live" tvg-logo="https://www.stream-link.org/tv_logo/cnn_live.png" group-title="国际新闻",CNN Live
+https://sc2022.stream-link.org/tv2306.php?id=e11
+#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-logo="https://www.stream-link.org/tv_logo/dw_news.png" group-title="国际新闻",DW News
+https://sc2022.stream-link.org/tv2306.php?id=e12
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://www.stream-link.org/tv_logo/euro_news.png" group-title="国际新闻",EURO News
+https://sc2022.stream-link.org/tv2306.php?id=e13
+#EXTINF:-1 tvg-id="" tvg-name="Fox Live" tvg-logo="https://www.stream-link.org/tv_logo/fox_live.png" group-title="国际新闻",Fox Live
+https://sc2022.stream-link.org/tv2306.php?id=e14
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE24" tvg-logo="https://www.stream-link.org/tv_logo/france_24E.png" group-title="国际新闻",France 24
+https://sc2022.stream-link.org/tv2306.php?id=e15
+#EXTINF:-1 tvg-id="" tvg-name="GB News" tvg-logo="https://www.stream-link.org/tv_logo/gb_news.png" group-title="国际新闻",GB News
+https://sc2022.stream-link.org/tv2306.php?id=e16
+#EXTINF:-1 tvg-id="" tvg-name="Haber Turk" tvg-logo="https://www.stream-link.org/tv_logo/haber_turk.png" group-title="国际新闻",Haber Turk
+https://sc2022.stream-link.org/tv2306.php?id=e17
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://www.stream-link.org/tv_logo/nhk_world.png" group-title="国际新闻",NHK World Japan
+https://sc2022.stream-link.org/tv2306.php?id=e19
+
+#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="港澳",华丽翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h00
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="港澳",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h01
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="港澳",无线新闻台
 https://sc2022.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="港澳台",无线财经体育资讯台
+#EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="港澳",无线财经体育资讯台
 https://sc2022.stream-link.org/tv2306.php?id=h05
-#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="https://www.stream-link.org/tv_logo/rthk_31.png" group-title="港澳台",RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="https://www.stream-link.org/tv_logo/rthk_31.png" group-title="港澳",RTHK31
 https://sc2022.stream-link.org/tv2306.php?id=h11
-#EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="https://www.stream-link.org/tv_logo/rthk_33.png" group-title="港澳台",RTHK33
+#EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="https://www.stream-link.org/tv_logo/rthk_33.png" group-title="港澳",RTHK33
 https://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港国际财经台
+#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="港澳",香港国际财经台
 https://sc2022.stream-link.org/tv2306.php?id=h15
-#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="港澳台",香港开电视
+#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="港澳",香港开电视
 https://sc2022.stream-link.org/tv2306.php?id=h16
-#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="https://www.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="港澳台",TVB娱乐新闻台
+#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="https://www.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="港澳",TVB娱乐新闻台
 https://sc2022.stream-link.org/tv2306.php?id=h10
+#EXTINF:-1 tvg-id="" tvg-name="香港开电视咨询台" tvg-logo="https://www.stream-link.org/tv_logo/hoy_info.png" group-title="港澳",香港开电视咨询台
+https://sc2022.stream-link.org/tv2306.php?id=h17
+#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视中文台" tvg-logo="https://www.stream-link.org/tv_logo/phtv_live.png" group-title="港澳",凤凰卫视中文台
+https://sc2022.stream-link.org/tv2306.php?id=h19
+#EXTINF:-1 tvg-id="" tvg-name="澳门莲花卫视" tvg-logo="https://www.stream-link.org/tv_logo/macault.png" group-title="港澳",澳门莲花卫视
+https://sc2022.stream-link.org/tv2306.php?id=h20
+#EXTINF:-1 tvg-id="" tvg-name="TVB华语剧台" tvg-logo="https://www.stream-link.org/tv_logo/mytv_89.png" group-title="港澳",TVB华语剧台
+https://sc2022.stream-link.org/tv2306.php?id=h21
+#EXTINF:-1 tvg-id="" tvg-name="TVB剧场" tvg-logo="https://www.stream-link.org/tv_logo/mytv_214.png" group-title="港澳",TVB星河台
+https://sc2022.stream-link.org/tv2306.php?id=h22
+#EXTINF:-1 tvg-id="" tvg-name="TVB经典台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_classic.png" group-title="港澳",TVB经典台
+https://sc2022.stream-link.org/tv2306.php?id=h23
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台 tvg-logo="https://www.stream-link.org/tv_logo/ebc_news.png" group-title="台湾",东森新闻台
+https://sc2022.stream-link.org/tv2306.php?id=t01
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="https://www.stream-link.org/tv_logo/cts_news.png" group-title="台湾",华视新闻台
+https://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://www.stream-link.org/tv_logo/ctv_news.png" group-title="台湾",中视新闻台
+https://sc2022.stream-link.org/tv2306.php?id=t06
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_news.png" group-title="台湾",民视新闻台
+https://sc2022.stream-link.org/tv2306.php?id=t07
+#EXTINF:-1 tvg-id="" tvg-name="环宇国际新闻" tvg-logo="https://www.stream-link.org/tv_logo/global_news.png" group-title="台湾",环宇国际新闻
+https://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 tvg-id="" tvg-name="环宇台湾" tvg-logo="https://www.stream-link.org/tv_logo/global_news.png" group-title="台湾",环宇台湾
+https://sc2022.stream-link.org/tv2306.php?id=t09
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://www.stream-link.org/tv_logo/set_news+.png" group-title="台湾",三立新闻台
+https://sc2022.stream-link.org/tv2306.php?id=t12
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="https://www.stream-link.org/tv_logo/ttv_news.png" group-title="台湾",台视新闻台
+https://sc2022.stream-link.org/tv2306.php?id=t13
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_news.png" group-title="台湾",TVBS新闻台
+https://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1 tvg-id="" tvg-name="TVBS财经" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_finance.png" group-title="台湾",TVBS财经
+https://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 tvg-id="" tvg-name="中天亚洲台" tvg-logo="https://www.stream-link.org/tv_logo/cti_asia.png" group-title="台湾",中天亚洲台
+https://sc2022.stream-link.org/tv2306.php?id=t17
+#EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲台" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_asia.png" group-title="台湾",TVBS亚洲台
+https://sc2022.stream-link.org/tv2306.php?id=t18
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://www.stream-link.org/tv_logo/ftv_hd.png" group-title="台湾",民视
+https://sc2022.stream-link.org/tv2306.php?id=t19
+#EXTINF:-1 tvg-id="" tvg-name="民视第一台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_1.png" group-title="台湾",民视第一台
+https://sc2022.stream-link.org/tv2306.php?id=t20
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_tw.png" group-title="台湾",民视台湾台
+https://sc2022.stream-link.org/tv2306.php?id=t21
+#EXTINF:-1 tvg-id="" tvg-name="民视综艺台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_entertainment.png" group-title="台湾",民视综艺台
+https://sc2022.stream-link.org/tv2306.php?id=t22
+#EXTINF:-1 tvg-id="" tvg-name="民视影剧台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_drama.png" group-title="台湾",民视影剧台
+https://sc2022.stream-link.org/tv2306.php?id=t23
+#EXTINF:-1 tvg-id="" tvg-name="民视旅游台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_travel.png" group-title="台湾",民视旅游台
+https://sc2022.stream-link.org/tv2306.php?id=t24
+#EXTINF:-1 tvg-id="6072" tvg-name="三立台湾台" tvg-logo="https://www.stream-link.org/tv_logo/set_tw.png" group-title="台湾",三立台湾台
+https://sc2022.stream-link.org/tv2306.php?id=t25
+#EXTINF:-1 tvg-id="6072" tvg-name="三立都会台" tvg-logo="https://www.stream-link.org/tv_logo/set_metro.png" group-title="台湾",三立都会台
+https://sc2022.stream-link.org/tv2306.php?id=t26
